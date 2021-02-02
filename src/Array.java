@@ -1,5 +1,5 @@
 import java.util.Random;
-
+//this is for demo purpose
 public class Array{
 public static void main(String[] arg){
     Random dice = new Random();
